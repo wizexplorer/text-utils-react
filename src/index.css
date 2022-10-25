@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Arima&family=Zilla+Slab:wght@300&display=swap");
+
+#myBox {
+  font-family: "Arima", cursive;
+}
+
+#preview-text {
+  font-family: 'Zilla Slab', serif;
+}
